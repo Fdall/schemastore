@@ -5750,6 +5750,16 @@
       "description": "Minecraft 1.12 Forge mod 'Custom Main Menu' config",
       "fileMatch": ["mainmenu.yml", "mainmenu.yaml", "mainmenu.json"],
       "url": "https://json.schemastore.org/minecraft-custom-main-menu-mod.json"
+    },
+    {
+      "name": "Rudder techniques",
+      "description": "Rudder techniques",
+      "fileMatch": [
+        "technique.yml",
+        "technique.ids.yml"
+      ],
+      "url": "https://json.schemastore.org/rudder-techniques.json"
     }
+
   ]
 }
